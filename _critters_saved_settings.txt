@@ -1,0 +1,16 @@
+#CSE 142 Critters saved settings
+#Mon Mar 20 13:30:15 PDT 2017
+SadAnimal=false
+Height=50
+Turtle=true
+Number\ of\ each\ critter=25
+HappyAnimal=false
+Network\ features=false
+Leopard=true
+Shark_sjoshipu=false
+GreenTurtle=true
+Mystery=true
+Debug\ output=false
+Omnivore=false
+Sloth=true
+Width=60
